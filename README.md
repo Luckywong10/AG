@@ -1,17 +1,15 @@
 
-## 🚨 Important 🚨 According to the [official statement](https://twitter.com/thechrisperry/status/1649189902079381505), the Colab Free of charge tier is not available for the Stable Diffusion WebUI 😭 We can only use it with [any paid plan](https://twitter.com/thechrisperry/status/1649193506957828096) Also, I asked the Colab Team to change the scary 😱 message. https://github.com/googlecolab/colabtools/issues/3591 and [official statement](https://www.reddit.com/r/StableDiffusion/comments/12t8tc7/comment/jh2yhaz/?utm_source=share&utm_medium=web2x&context=3) "No bans planned if you click through (will delete the VMs at some point)"
-
 ## 人工智能图形处理程序
 版权归王院长所有，禁止传播
 
 <br />
 
-`lite` has a stable WebUI and stable installed extensions. <br />
-`stable` has ControlNet v1.1, a stable WebUI, and stable installed extensions. <br />
-`nightly` has ControlNet v1.1 the latest WebUI with PyTorch 2.0, and daily installed extension updates. <br />
+' 精简版 '有一个稳定的web和稳定的安装扩展。< br / >
+' 稳定版 '有ControlNet v1.1，一个稳定的web，和稳定的安装扩展。< br / >
+' 开发版 '有ControlNet v1.1最新的web与PyTorch 2.0，测试最新的拓展更新。< br / >
 
 ## 🦒 模型版本
-| lite | stable | nightly | Info - Token - Model Page
+| 精简版 | 稳定版 | 开发版 |信息-令牌-模型页
 | --- | --- | --- | --- |
 [![Open In Colab](https://user-images.githubusercontent.com/54370274/224839806-8720fb19-9c7d-46a2-8d7c-de3afb39c11f.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/stable_diffusion_webui_colab.ipynb) | [![Open In Colab](https://user-images.githubusercontent.com/54370274/224839804-50c0c18b-3960-4a1c-b7fa-3c7074b11779.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/stable_diffusion_webui_colab.ipynb) | [![Open In Colab](https://user-images.githubusercontent.com/54370274/224839802-95968900-392b-4b30-ad75-aeac13675e1b.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/stable_diffusion_webui_colab.ipynb) | stable_diffusion_webui_colab <br /> [CompVis/stable-diffusion-v-1-4-original](https://huggingface.co/CompVis/stable-diffusion-v-1-4-original)
 [![Open In Colab](https://user-images.githubusercontent.com/54370274/224839806-8720fb19-9c7d-46a2-8d7c-de3afb39c11f.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/waifu_diffusion_webui_colab.ipynb) | [![Open In Colab](https://user-images.githubusercontent.com/54370274/224839804-50c0c18b-3960-4a1c-b7fa-3c7074b11779.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/waifu_diffusion_webui_colab.ipynb) | [![Open In Colab](https://user-images.githubusercontent.com/54370274/224839802-95968900-392b-4b30-ad75-aeac13675e1b.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/waifu_diffusion_webui_colab.ipynb) | waifu_diffusion_webui_colab <br /> [hakurei/waifu-diffusion-v1-3](https://huggingface.co/hakurei/waifu-diffusion-v1-3)
@@ -196,136 +194,3 @@
 [![Open In Colab](https://user-images.githubusercontent.com/54370274/224839806-8720fb19-9c7d-46a2-8d7c-de3afb39c11f.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/majicmix_realistic_webui_colab.ipynb) | [![Open In Colab](https://user-images.githubusercontent.com/54370274/224839804-50c0c18b-3960-4a1c-b7fa-3c7074b11779.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/majicmix_realistic_webui_colab.ipynb) | [![Open In Colab](https://user-images.githubusercontent.com/54370274/224839802-95968900-392b-4b30-ad75-aeac13675e1b.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/majicmix_realistic_webui_colab.ipynb) | majicmix_realistic_webui_colab <br /> (Thanks to zx3o for the suggestion ❤) <br /> [4044/majicmix-realistic](https://civitai.com/models/43331/majicmix-realistic)
 [![Open In Colab](https://user-images.githubusercontent.com/54370274/224839806-8720fb19-9c7d-46a2-8d7c-de3afb39c11f.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/realisian_webui_colab.ipynb) | [![Open In Colab](https://user-images.githubusercontent.com/54370274/224839804-50c0c18b-3960-4a1c-b7fa-3c7074b11779.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/realisian_webui_colab.ipynb) | [![Open In Colab](https://user-images.githubusercontent.com/54370274/224839802-95968900-392b-4b30-ad75-aeac13675e1b.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/realisian_webui_colab.ipynb) | realisian_webui_colab <br /> (Thanks to zx3o for the suggestion ❤) <br /> [Cisney_Gassai/realisian](https://civitai.com/models/47130/realisian)
 [![Open In Colab](https://user-images.githubusercontent.com/54370274/224839806-8720fb19-9c7d-46a2-8d7c-de3afb39c11f.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/analog_madness_webui_colab.ipynb) | [![Open In Colab](https://user-images.githubusercontent.com/54370274/224839804-50c0c18b-3960-4a1c-b7fa-3c7074b11779.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/analog_madness_webui_colab.ipynb) | [![Open In Colab](https://user-images.githubusercontent.com/54370274/224839802-95968900-392b-4b30-ad75-aeac13675e1b.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/analog_madness_webui_colab.ipynb) | analog_madness_webui_colab  <br /> [CornmeisterNL/analog-madness-realistic-model](https://civitai.com/models/8030/analog-madness-realistic-model)
-
-## 🦒 Special Colab
-| lite | stable | nightly | Info - Token - Model Page
-| --- | --- | --- | --- |
-[![Open In Colab](https://user-images.githubusercontent.com/54370274/224839806-8720fb19-9c7d-46a2-8d7c-de3afb39c11f.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/special/lite/riffusion_v1_webui_colab.ipynb) | [![Open In Colab](https://user-images.githubusercontent.com/54370274/224839804-50c0c18b-3960-4a1c-b7fa-3c7074b11779.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/special/stable/riffusion_v1_webui_colab.ipynb) | [![Open In Colab](https://user-images.githubusercontent.com/54370274/224839802-95968900-392b-4b30-ad75-aeac13675e1b.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/special/nightly/riffusion_v1_webui_colab.ipynb) | riffusion_v1_webui_colab <br /> (Use with `Script -> Riffusion Audio Generator`) <br /> (Thanks to Neverstorm for the suggestion ❤) <br /> [riffusion/riffusion-model-v1](https://huggingface.co/riffusion/riffusion-model-v1)
-[![Open In Colab](https://user-images.githubusercontent.com/54370274/224839806-8720fb19-9c7d-46a2-8d7c-de3afb39c11f.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/special/lite/pix2pix_webui_colab.ipynb) | [![Open In Colab](https://user-images.githubusercontent.com/54370274/224839804-50c0c18b-3960-4a1c-b7fa-3c7074b11779.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/special/stable/pix2pix_webui_colab.ipynb) | [![Open In Colab](https://user-images.githubusercontent.com/54370274/224839802-95968900-392b-4b30-ad75-aeac13675e1b.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/special/nightly/pix2pix_webui_colab.ipynb) | pix2pix_webui_colab <br /> (Thanks to Klace for the [pix2pix extension](https://github.com/Klace/stable-diffusion-webui-instruct-pix2pix) ❤) <br /> [timbrooks/instruct-pix2pix](https://huggingface.co/timbrooks/instruct-pix2pix)
-[![Open In Colab](https://user-images.githubusercontent.com/54370274/224839806-8720fb19-9c7d-46a2-8d7c-de3afb39c11f.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/special/lite/vladmandic_automatic_webui_colab.ipynb) | [![Open In Colab](https://user-images.githubusercontent.com/54370274/224839804-50c0c18b-3960-4a1c-b7fa-3c7074b11779.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/special/stable/vladmandic_automatic_webui_colab.ipynb) | [![Open In Colab](https://user-images.githubusercontent.com/54370274/224839802-95968900-392b-4b30-ad75-aeac13675e1b.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/special/nightly/vladmandic_automatic_webui_colab.ipynb) | vladmandic_automatic_webui_colab <br /> (Thanks to cenahum for the suggestion ❤) [AUTOMATIC1111/stable-diffusion-webui fork](https://github.com/vladmandic/automatic)
-
-## 🦒 Video Colab
-| lite | stable | nightly | Info - Token - Model Page
-| --- | --- | --- | --- |
-[![Open In Colab](https://user-images.githubusercontent.com/54370274/224839806-8720fb19-9c7d-46a2-8d7c-de3afb39c11f.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/video/lite/stable_diffusion_1_5_video_webui_colab.ipynb) | [![Open In Colab](https://user-images.githubusercontent.com/54370274/224839804-50c0c18b-3960-4a1c-b7fa-3c7074b11779.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/video/stable/stable_diffusion_1_5_video_webui_colab.ipynb) | [![Open In Colab](https://user-images.githubusercontent.com/54370274/224839802-95968900-392b-4b30-ad75-aeac13675e1b.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/video/nightly/stable_diffusion_1_5_video_webui_colab.ipynb) | stable_diffusion_1_5_video_webui_colab <br /> (Thanks to kabachuha for the fp16 model ❤) <br /> [damo-vilab/modelscope-damo-text-to-video-synthesis](https://huggingface.co/damo-vilab/modelscope-damo-text-to-video-synthesis)
-[![Open In Colab](https://user-images.githubusercontent.com/54370274/224839806-8720fb19-9c7d-46a2-8d7c-de3afb39c11f.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/video/lite/animov_0_1_video_webui_colab.ipynb) | [![Open In Colab](https://user-images.githubusercontent.com/54370274/224839804-50c0c18b-3960-4a1c-b7fa-3c7074b11779.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/video/stable/animov_0_1_video_webui_colab.ipynb) | [![Open In Colab](https://user-images.githubusercontent.com/54370274/224839802-95968900-392b-4b30-ad75-aeac13675e1b.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/video/nightly/animov_0_1_video_webui_colab.ipynb) | animov_0_1_video_webui_colab <br /> (Thanks to kabachuha for the fp16 model ❤) <br /> [strangeman3107/animov-0.1](https://huggingface.co/datasets/strangeman3107/animov-0.1)
-
-## Community Colabs
-https://github.com/camenduru/stable-diffusion-webui-colab/tree/community <br />
-or please select `community` from `switch branches/tags`
-
-![Screenshot 2023-02-12 113244](https://user-images.githubusercontent.com/54370274/218300944-a6c67c6a-92a9-441e-84c5-c0f72edf53dd.jpg)
-
-## 🦄 Experimental Colab UI - AI Creator Archive (AICA)
-🚨 These UIs do not contain all the models available in this repository. <br />
-💡 Please feel free to share your ideas in the #aica channel in our [discord](https://discord.gg/k5BwmmvJJU) server
-| Table | Grid |
-| --- | --- |
-[![aica.pages.dev](https://user-images.githubusercontent.com/54370274/225216055-3a3bf25d-6c2a-425b-a447-1aa39c9ef4d2.png)](https://aica.pages.dev) | [![aica.vercel.app](https://user-images.githubusercontent.com/54370274/225216036-664b5752-06fa-4510-a4db-2464eb9aa233.png)](https://aica.vercel.app)
-
-## 🐳 Docker
-https://github.com/camenduru/stable-diffusion-webui-docker
-
-## 🍇 Sagemaker
-https://github.com/camenduru/stable-diffusion-webui-sagemaker
-
-## Tutorials
-How to Use: https://youtu.be/ZUbLoMt_wa0 <br />
-How To Use With Google Drive: https://youtu.be/zjeziAAKx-o <br />
-How To Use 🤗 Hugging Face Upload Extension: https://youtu.be/KeGpKGzK7R8 <br />
-How To Use Additional Networks (LoRA) and CivitAI Extension: https://youtu.be/2VwqHN7HDMc <br />
-
-## Stable Diffusion Web UI
-[https://github.com/AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) (Thanks to @AUTOMATIC1111 ❤)
-
-## Documentation
-[https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki)
-
-## Lite Installed Extensions
-[https://github.com/deforum-art/deforum-for-automatic1111-webui](https://github.com/deforum-art/deforum-for-automatic1111-webui) (Thanks to @deforum-art ❤) <br />
-[https://github.com/yfszzx/stable-diffusion-webui-images-browser](https://github.com/yfszzx/stable-diffusion-webui-images-browser) (Thanks to @yfszzx ❤ @AlUlkesh ❤) <br />
-[https://github.com/camenduru/stable-diffusion-webui-huggingface](https://github.com/camenduru/stable-diffusion-webui-huggingface) <br />
-[https://github.com/Vetchems/sd-civitai-browser](https://github.com/Vetchems/sd-civitai-browser) (Thanks to @Vetchems ❤ @etherealxx ❤ @axsddlr ❤ @AxelFar94 ❤ @genevera ❤) <br />
-[https://github.com/kohya-ss/sd-webui-additional-networks](https://github.com/kohya-ss/sd-webui-additional-networks) (Thanks to @kohya-ss ❤) <br />
-[https://github.com/Bing-su/sd-webui-tunnels](https://github.com/Bing-su/sd-webui-tunnels) (Thanks to @Bing-su ❤ @etherealxx ❤) <br />
-[https://github.com/enlyth/sd-webui-riffusion](https://github.com/enlyth/sd-webui-riffusion) (Thanks to @enlyth ❤) <br />
-[https://github.com/etherealxx/batchlinks-webui](https://github.com/etherealxx/batchlinks-webui) (Thanks to @etherealxx ❤) <br />
-[https://github.com/catppuccin/stable-diffusion-webui](https://github.com/catppuccin/stable-diffusion-webui) (Thanks to @catppuccin ❤) <br />
-[https://github.com/KohakuBlueleaf/a1111-sd-webui-locon](https://github.com/KohakuBlueleaf/a1111-sd-webui-locon) (Thanks to @KohakuBlueleaf ❤) <br />
-[https://github.com/AUTOMATIC1111/stable-diffusion-webui-rembg](https://github.com/AUTOMATIC1111/stable-diffusion-webui-rembg) (Thanks to @AUTOMATIC1111 ❤) <br />
-[https://github.com/ashen-sensored/stable-diffusion-webui-two-shot](https://github.com/ashen-sensored/stable-diffusion-webui-two-shot) (Thanks to @opparco ❤  @ashen-sensored ❤) <br />
-[https://github.com/ashen-sensored/sd_webui_stealth_pnginfo](https://github.com/ashen-sensored/sd_webui_stealth_pnginfo) (Thanks to @ashen-sensored ❤ @gitadmin0608 ❤) <br />
-[https://github.com/thomasasfk/sd-webui-aspect-ratio-helper](https://github.com/thomasasfk/sd-webui-aspect-ratio-helper) (Thanks to @thomasasfk ❤) <br />
-
-## Stable & Nightly & Drive Installed Extensions
-[https://github.com/deforum-art/deforum-for-automatic1111-webui](https://github.com/deforum-art/deforum-for-automatic1111-webui) (Thanks to @deforum-art ❤) <br />
-[https://github.com/yfszzx/stable-diffusion-webui-images-browser](https://github.com/yfszzx/stable-diffusion-webui-images-browser) (Thanks to @yfszzx ❤ @AlUlkesh ❤) <br />
-[https://github.com/camenduru/stable-diffusion-webui-huggingface](https://github.com/camenduru/stable-diffusion-webui-huggingface) <br />
-[https://github.com/Vetchems/sd-civitai-browser](https://github.com/Vetchems/sd-civitai-browser) (Thanks to @Vetchems ❤ @etherealxx ❤ @axsddlr ❤ @AxelFar94 ❤ @genevera ❤) <br />
-[https://github.com/kohya-ss/sd-webui-additional-networks](https://github.com/kohya-ss/sd-webui-additional-networks) (Thanks to @kohya-ss ❤) <br />
-[https://github.com/Klace/stable-diffusion-webui-instruct-pix2pix](https://github.com/Klace/stable-diffusion-webui-instruct-pix2pix) (Thanks to @Klace ❤) <br />
-[https://github.com/Mikubill/sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet) (Thanks to @lllyasviel ❤ @Mikubill ❤ @kohya-ss ❤ @ClashSAN ❤ @ddPn08 ❤) <br /> 
-[https://github.com/fkunn1326/openpose-editor](https://github.com/fkunn1326/openpose-editor) (Thanks to @fkunn1326 ❤) <br />
-[https://github.com/Bing-su/sd-webui-tunnels](https://github.com/Bing-su/sd-webui-tunnels) (Thanks to @Bing-su ❤ @etherealxx ❤) <br />
-[https://github.com/jexom/sd-webui-depth-lib](https://github.com/jexom/sd-webui-depth-lib) (Thanks to @jexom ❤) <br />
-[https://github.com/hnmr293/posex](https://github.com/hnmr293/posex) (Thanks to @hnmr293 ❤) <br />
-[https://github.com/enlyth/sd-webui-riffusion](https://github.com/enlyth/sd-webui-riffusion) (Thanks to @enlyth ❤) <br />
-[https://github.com/etherealxx/batchlinks-webui](https://github.com/etherealxx/batchlinks-webui) (Thanks to @etherealxx ❤) <br />
-[https://github.com/catppuccin/stable-diffusion-webui](https://github.com/catppuccin/stable-diffusion-webui) (Thanks to @catppuccin ❤) <br />
-[https://github.com/KohakuBlueleaf/a1111-sd-webui-locon](https://github.com/KohakuBlueleaf/a1111-sd-webui-locon) (Thanks to @KohakuBlueleaf ❤) <br />
-[https://github.com/AUTOMATIC1111/stable-diffusion-webui-rembg](https://github.com/AUTOMATIC1111/stable-diffusion-webui-rembg) (Thanks to @AUTOMATIC1111 ❤) <br />
-[https://github.com/ashen-sensored/stable-diffusion-webui-two-shot](https://github.com/ashen-sensored/stable-diffusion-webui-two-shot) (Thanks to @opparco ❤  @ashen-sensored ❤) <br />
-[https://github.com/ashen-sensored/sd_webui_stealth_pnginfo](https://github.com/ashen-sensored/sd_webui_stealth_pnginfo) (Thanks to @ashen-sensored ❤ @gitadmin0608 ❤) <br />
-[https://github.com/nonnonstop/sd-webui-3d-open-pose-editor](https://github.com/nonnonstop/sd-webui-3d-open-pose-editor) (Thanks to @nonnonstop ❤) <br />
-[https://github.com/thomasasfk/sd-webui-aspect-ratio-helper](https://github.com/thomasasfk/sd-webui-aspect-ratio-helper) (Thanks to @thomasasfk ❤) <br />
-
-## Video Installed Extensions
-[https://github.com/volotat/SD-CN-Animation](https://github.com/volotat/SD-CN-Animation) (Thanks to @volotat ❤)  <br />
-[https://github.com/deforum-art/sd-webui-text2video](https://github.com/deforum-art/sd-webui-text2video) (Thanks to @kabachuha ❤)   <br />
-[https://xanthius.itch.io/multi-frame-rendering-for-stablediffusion](https://xanthius.itch.io/multi-frame-rendering-for-stablediffusion) (Thanks to xanthius ❤)   <br />
-[https://rentry.org/sd-loopback-wave](https://rentry.org/sd-loopback-wave) (Thanks to the anonymous person ❤)   <br />
-[https://github.com/Winfredy/SadTalker](https://github.com/Winfredy/SadTalker) (Thanks to @vinthony ❤)   <br />
-[https://github.com/v8hid/infinite-zoom-automatic1111-webui](https://github.com/v8hid/infinite-zoom-automatic1111-webui) (Thanks to @v8hid ❤)  <br />
-
-## Installed Scripts
-[https://github.com/camenduru/stable-diffusion-webui-scripts/blob/main/run_n_times.py](https://github.com/camenduru/stable-diffusion-webui-scripts/blob/main/run_n_times.py) <br />
-
-## Installed Loras
-[https://civitai.com/models/13941/epinoiseoffset](https://civitai.com/models/13941/epinoiseoffset) (Thanks to epinikion ❤) <br />
-[https://civitai.com/models/16014/anime-lineart-manga-like-style](https://civitai.com/models/16014/anime-lineart-manga-like-style) (Thanks to CyberAIchemist ❤) <br />
-
-## Installed Embeds
-[https://huggingface.co/Xynon/models](https://huggingface.co/Xynon/models) (Thanks to Xynon ❤) <br />
-[https://huggingface.co/datasets/Nerfgun3/bad_prompt](https://huggingface.co/datasets/Nerfgun3/bad_prompt) (Thanks to Nerfgun3 ❤) <br />
-[https://huggingface.co/yesyeahvh/bad-hands-5](https://huggingface.co/yesyeahvh/bad-hands-5) (Thanks to yesyeahvh ❤) <br />
-[https://huggingface.co/datasets/gsdf/EasyNegative](https://huggingface.co/datasets/gsdf/EasyNegative) (Thanks to gsdf ❤) <br />
-[https://civitai.com/models/4629/deep-negative-v1x](https://civitai.com/models/4629/deep-negative-v1x) (Thanks to FapMagi ❤) <br />
-[https://huggingface.co/NiXXerHATTER59/bad-artist](https://huggingface.co/NiXXerHATTER59/bad-artist) (Thanks to NiXXerHATTER59 ❤) <br />
-
-## Special Thanks
-Thanks to @thx-pw ❤ (colab memmory fix) <br />
-Thanks to @Daviljoe193 ❤ (colab memmory fix) <br />
-Thanks to @machiavel23 ❤ (community colab) <br />
-Thanks to @etherealxx ❤ (community colab) <br />
-Thanks to @nocrypt ❤ (community colab) <br />
-Thanks to @AIrabbit0 ❤ (community colab) <br />
-Thanks to @ark5mith ❤ (community colab) <br />
-Thanks to 7743 ❤ (community colab) <br />
-Thanks to @Hareshkumar77 ❤ (community colab) <br />
-Thanks to Hollowstrawberry ❤ (community colab) <br />
-Thanks to @jeguepowerr ❤ (latest news) <br />
-Thanks to @ebixbenis ❤ (latest news) <br />
-Thanks to @anuragrajput40904 ❤ (contributor) <br />
-Thanks to @tahaaydn ❤ (contributor) <br />
-Thanks to @HuiShingHon ❤ (contributor) <br />
-Thanks to @Siddhanta19 ❤ (contributor) <br />
-Thanks to @fumiama ❤ (contributor) <br />
-Thanks to @NUROISEA ❤ (contributor) <br />
-Thanks to @joegibes ❤ (contributor) <br />
-Thanks to @KoukatsuMahoutsukai ❤ (contributor) <br />
-Thanks to @zaedrys ❤ (contributor) <br />
-Thanks to @bdulive ❤ (contributor) <br />
-Thanks to chiraggg ❤ (suggestion of the dev test colab extensions) <br />
-
-## Models License
-https://huggingface.co/spaces/CompVis/stable-diffusion-license
