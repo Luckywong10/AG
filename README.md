@@ -1,19 +1,8 @@
-🐣 Please follow me for new updates https://twitter.com/camenduru <br />
-🔥 Please join our discord server https://discord.gg/k5BwmmvJJU
 
 ## 🚨 Important 🚨 According to the [official statement](https://twitter.com/thechrisperry/status/1649189902079381505), the Colab Free of charge tier is not available for the Stable Diffusion WebUI 😭 We can only use it with [any paid plan](https://twitter.com/thechrisperry/status/1649193506957828096) Also, I asked the Colab Team to change the scary 😱 message. https://github.com/googlecolab/colabtools/issues/3591 and [official statement](https://www.reddit.com/r/StableDiffusion/comments/12t8tc7/comment/jh2yhaz/?utm_source=share&utm_medium=web2x&context=3) "No bans planned if you click through (will delete the VMs at some point)"
 
-## How to use DreamBooth & LoRA trainer ?
-https://github.com/camenduru/stable-diffusion-webui-colab/tree/training <br />
-or please select `training` from `switch branches/tags`
-
-![Screenshot 2023-03-07 050440](https://user-images.githubusercontent.com/54370274/223300990-73645a89-2ef5-4d4e-94a2-633010779e3e.png)
-
-## How to install latest version and ControlNet to Google Drive ?
-https://github.com/camenduru/stable-diffusion-webui-colab/tree/drive <br />
-or please select `drive` from `switch branches/tags`
-
-![Screenshot 2023-02-23 165554t](https://user-images.githubusercontent.com/54370274/220930939-1068cd0c-ac29-4a92-9b1d-c67f58f0aff0.png)
+## 人工智能图形处理程序
+版权归王院长所有，禁止传播
 
 <br />
 
@@ -21,7 +10,7 @@ or please select `drive` from `switch branches/tags`
 `stable` has ControlNet v1.1, a stable WebUI, and stable installed extensions. <br />
 `nightly` has ControlNet v1.1 the latest WebUI with PyTorch 2.0, and daily installed extension updates. <br />
 
-## 🦒 Colab
+## 🦒 模型版本
 | lite | stable | nightly | Info - Token - Model Page
 | --- | --- | --- | --- |
 [![Open In Colab](https://user-images.githubusercontent.com/54370274/224839806-8720fb19-9c7d-46a2-8d7c-de3afb39c11f.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/stable_diffusion_webui_colab.ipynb) | [![Open In Colab](https://user-images.githubusercontent.com/54370274/224839804-50c0c18b-3960-4a1c-b7fa-3c7074b11779.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/stable_diffusion_webui_colab.ipynb) | [![Open In Colab](https://user-images.githubusercontent.com/54370274/224839802-95968900-392b-4b30-ad75-aeac13675e1b.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/stable_diffusion_webui_colab.ipynb) | stable_diffusion_webui_colab <br /> [CompVis/stable-diffusion-v-1-4-original](https://huggingface.co/CompVis/stable-diffusion-v-1-4-original)
