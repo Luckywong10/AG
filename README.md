@@ -9,6 +9,7 @@
 ' 开发版 '有ControlNet v1.1最新的web与PyTorch 2.0，测试最新的拓展更新。<br/>
 
 ## 🦒 模型版本
+推荐 https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/chillout_mix_webui_colab.ipynb
 | 精简版 | 稳定版 | 开发版 |信息-令牌-模型页
 | --- | --- | --- | --- |
 [![Open In Colab](https://user-images.githubusercontent.com/54370274/224839806-8720fb19-9c7d-46a2-8d7c-de3afb39c11f.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/stable_diffusion_webui_colab.ipynb) | [![Open In Colab](https://user-images.githubusercontent.com/54370274/224839804-50c0c18b-3960-4a1c-b7fa-3c7074b11779.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/stable_diffusion_webui_colab.ipynb) | [![Open In Colab](https://user-images.githubusercontent.com/54370274/224839802-95968900-392b-4b30-ad75-aeac13675e1b.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/stable_diffusion_webui_colab.ipynb) | stable_diffusion_webui_colab <br /> [CompVis/stable-diffusion-v-1-4-original](https://huggingface.co/CompVis/stable-diffusion-v-1-4-original)
